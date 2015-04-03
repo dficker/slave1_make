@@ -167,6 +167,9 @@ projects[textformatter][version] = "1.3"
 ; Token
 projects[token][version] = "1.6"
 
+; Transliteration
+projects[transliteration][version] = "3.2"
+
 ; Views
 projects[views][version] = "3.10"
 
