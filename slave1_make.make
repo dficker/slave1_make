@@ -128,17 +128,14 @@ projects[mailsystem][version] = "2.34"
 ; Menu Block
 projects[menu_block][version] = "2.5"
 
-; Meta tags quick
-projects[metatags_quick][version] = "2.9"
+; Metatag
+projects[metatag][version] = "1.4"
 
 ; Module Filter
 projects[module_filter][version] = "2.0"
 
 ; Node and Comments Form Settings
 projects[nodeformsettings][version] = "2.x-dev"
-
-; Page Title
-projects[page_title][version] = "2.7"
 
 ; Pathauto
 projects[pathauto][version] = "1.2"
