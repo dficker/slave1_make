@@ -155,6 +155,9 @@ projects[redirect][version] = "1.0-rc1"
 ; References
 projects[references][version] = "2.1"
 
+; Site verification
+projects[site_verify][version] = "1.1"
+
 ; Special menu items
 projects[special_menu_items][version] = "2.0"
 
